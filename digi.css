@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#tree-container {
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+.node {
+    margin-left: 10px;
+}
+
+.selected {
+    background-color: #f0f0f0;
+}
+
+input[type="text"] {
+    width: 200px;
+    padding: 5px;
+}
+
+button {
+    padding: 5px;
+    margin-left: 10px;
+}
